@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+rapidfuzz
+pyspellchecker
+
+# Optional (visualization)
+matplotlib
+seaborn
+plotly
